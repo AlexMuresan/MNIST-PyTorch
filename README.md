@@ -9,3 +9,5 @@
  - https://github.com/kriventsov/vit-pytorch/blob/main/vit_pytorch/vit_pytorch.py
  - https://medium.com/swlh/an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-brief-review-of-the-8770a636c6a8
  - https://github.com/google-research/vision_transformer
+ - https://www.dl.reviews/2020/10/08/vision-transformer/
+ - http://jalammar.github.io/illustrated-transformer/
